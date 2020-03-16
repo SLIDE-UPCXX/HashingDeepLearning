@@ -6,6 +6,7 @@
 #include <chrono>
 #include <algorithm>
 #include <sys/mman.h>
+#include <linux/mman.h>
 #include "Config.h"
 
 using namespace std;
